@@ -28,7 +28,7 @@
     <p>Software Engineer (Qt, C++)</p>
     <p>Interested in backend development on python stack (Django/Flask)</p>
     <p>I am looking for a job in a company where I can realize my potential by performing complex and non-standard tasks for the result</p>
-    <p>How to reach me: <a href="maltsew.na@gmail.com">
+    <p>How to reach me: <a href="mailto:maltsew.na@gmail.com?subject=Jobs">
     <img src="https://img.shields.io/badge/Gmail-send%20me%20an%20email-blue?style=social&logo=Gmail"/>
   </a>
 </p>
